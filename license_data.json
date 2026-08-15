@@ -1,0 +1,14 @@
+{
+  "product": "PPF to SF2 Converter",
+  "version": "11.0",
+  "license_required": true,
+  "licenses": {
+    "ORNEK-30-GUN": {
+      "hwid": "MUSTERININ_64_HANELI_SHA256_HWIDSI",
+      "activated_at": "2026-08-16",
+      "expires_at": "2026-09-15",
+      "active": true,
+      "note": "Örnek müşteri"
+    }
+  }
+}
