@@ -3,14 +3,7 @@
   "version": "13.0",
   "license_required": true,
   "licenses": {
-    "MUSTERI-001": {
-      "username": "Santa",
-      "hwid": "3FE6481288AF214AB68F72AE0708F9131713EDA29E858F20416755508D149D17",
-      "days": 30,
-      "active": true,
-      "note": "30 günlük lisans"
-    },
-
+    
     "MUSTERI-002": {
       "username": "Arda",
       "hwid": "130C2401BB78F2B1DAD058E4BCA6EF666630EA5F8E1E49BF98ED77C440D3218F",
