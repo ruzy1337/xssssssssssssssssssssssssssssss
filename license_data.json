@@ -18,13 +18,5 @@
       "active": true,
       "note": "30 günlük lisans"
     }
-
-    "MUSTERI-003": {
-      "username": "Serhat",
-      "hwid": "",
-      "days": 10,
-      "active": true,
-      "note": "10 günlük lisans"
-    }
   }
 }
